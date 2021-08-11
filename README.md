@@ -6,7 +6,8 @@ Font design by Froyo Tam // Posters by Arixant, Articution, Avery, Boocanan, Fro
 
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasmaspecimen_indexedcolor.png)
 Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
-    // Poster by Arixant
+
+// Poster by Arixant
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/arixant-fantasma-sunbleached-new.png)
 // Poster by Articution 
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasma-poster-arti.png)
