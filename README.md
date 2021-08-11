@@ -2,11 +2,12 @@
 Fantasma: An「ael-lab」Release AEL-01 // Font design by Froyo Tam
 AEL-01
 
-Font design by Froyo Tam // Posters by Articution, Avery, Boocanan, Froyo Tam, Ghost.Snacks, Integra, om_neb (more to be announced)
+Font design by Froyo Tam // Posters by Arixant, Articution, Avery, Boocanan, Froyo Tam, Ghost.Snacks, Integra, om_neb (more to be announced)
 
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasmaspecimen_indexedcolor.png)
-//Posters by Arte Et Labore
 Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
+// Poster by Arixant
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/arixant-fantasma-sunbleached.png)
 // Poster by Articution 
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasma-poster-arti.png)
 // Poster by Avery
