@@ -4,8 +4,7 @@ AEL-01
 
 Font design by Froyo Tam // Posters by Articution, Boocanan, Froyo Tam, Ghost.Snacks, Integra, om_neb (more to be announced)
 
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasmaspecimen_indexedcolor.png?token=AOBDNVLTLQFOBOHTP235S6LBCNVZO)
-
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasmaspecimen_indexedcolor.png?token=AOBDNVIZEUAA2FFRKYQ5YP3BCNXHY)
 //Posters by Arte Et Labore
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasma-poster-arti.png?token=AOBDNVIKWL2HNTYVYSTBUZDBCNWWA)
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/BoocananFantasmaPosterCMYK300dpi.png?token=AOBDNVMN4322WWPYYTP4YBDBCNWX4)
