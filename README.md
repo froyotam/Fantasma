@@ -9,6 +9,8 @@ Font design by Froyo Tam // Posters by Articution, Boocanan, Froyo Tam, Ghost.Sn
 Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
 // Poster by Articution 
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasma-poster-arti.png)
+// Poster by Avery
+![Image](https://raw.githubusercontent.com/froyotam/Fantasma/main/documentation/avery_canine_2.png)
 // Poster by Boocanan
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/BoocananFantasmaPosterCMYK300dpi.png)
 // Poster by Froyo Tam
