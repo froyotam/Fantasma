@@ -4,20 +4,20 @@ AEL-01
 
 Font design by Froyo Tam // Posters by Articution, Boocanan, Froyo Tam, Ghost.Snacks, Integra, om_neb (more to be announced)
 
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasmaspecimen_indexedcolor.png?token=AOBDNVIZEUAA2FFRKYQ5YP3BCNXHY)
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasmaspecimen_indexedcolor.png)
 //Posters by Arte Et Labore
 Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
 // Poster by Articution 
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasma-poster-arti.png?token=AOBDNVIKWL2HNTYVYSTBUZDBCNWWA)
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasma-poster-arti.png)
 // Poster by Boocanan
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/BoocananFantasmaPosterCMYK300dpi.png?token=AOBDNVMN4322WWPYYTP4YBDBCNWX4)
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/BoocananFantasmaPosterCMYK300dpi.png)
 // Poster by Froyo Tam
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/vanishingmetadata_indexed.png?token=AOBDNVMT7IYKWRHVRG7DLJTBCNW2G)
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/vanishingmetadata_indexed.png)
 // Poster by Ghost.Snacks
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/110821_ghostsnacks.jpeg?token=AOBDNVPA3HLXGTDJDZ3XGMDBCNW6I)
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/110821_ghostsnacks.jpeg)
 // Poster by Integra
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/ArteLabore_Fantasma_Poster_Integra_Print_3.jpeg?token=AOBDNVID4Q7FETJLYA3MM7LBCNXBE)
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/ArteLabore_Fantasma_Poster_Integra_Print_3.jpeg)
 // Poster by om.neb
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/Apparition_FantasmaPoster_Fixed.png?token=AOBDNVK7V3PTNAUQKUYLO73BCNXDQ)
+![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/Apparition_FantasmaPoster_Fixed.png)
 
-Font licensed under GNU General Public License 3.0
+Licensed under GNU General Public License 3.0
