@@ -1,4 +1,4 @@
-# fantasma
+# Fantasma
 Fantasma: An「ael-lab」Release AEL-01 // Font design by Froyo Tam
 AEL-01
 
