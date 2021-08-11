@@ -18,6 +18,6 @@ Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
 // Poster by Integra
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/ArteLabore_Fantasma_Poster_Integra_Print_3.jpeg)
 // Poster by om.neb
-![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/Apparition_FantasmaPoster_Fixed.png)
+![Image](https://raw.githubusercontent.com/froyotam/Fantasma/main/documentation/Apparition_FantasmaPoster_Fixed.png)
 
 Licensed under GNU General Public License 3.0
