@@ -4,7 +4,7 @@ AEL-01
 
 Featured and originally exclusively designed for Club Fantastic: Step Forward https://clubfantastic.dance/
 
-Font design by Froyo Tam // Posters by Aetherpoint, Arixant, Articution, Avery, Boocanan, Froyo Tam, Ghost.Snacks, Integra, om_neb (and more)
+Font design by Froyo Tam // Posters by Aetherpoint, Arixant, Articution, Avery, Boocanan, DropTheBell, Froyo Tam, Ghost.Snacks, Integra, om_neb (and more)
 
 ![Image](https://raw.githubusercontent.com/froyotam/fantasma/main/documentation/fantasmaspecimen_indexedcolor.png)
 Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
