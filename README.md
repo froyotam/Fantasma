@@ -24,4 +24,5 @@ Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
 // Poster by om.neb
 ![Image](https://raw.githubusercontent.com/froyotam/Fantasma/main/documentation/Apparition_FantasmaPoster_Fixed.png)
 
+Featured and originally exlusively designed for Club Fantastic: Step Forward https://clubfantastic.dance/
 Licensed under GNU General Public License 3.0
