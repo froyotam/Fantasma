@@ -2,7 +2,7 @@
 Fantasma: An「ael-lab」Release AEL-01 // Font design by Froyo Tam
 AEL-01
 
-Featured and originally exlusively designed for Club Fantastic: Step Forward https://clubfantastic.dance/
+Featured and originally exclusively designed for Club Fantastic: Step Forward https://clubfantastic.dance/
 
 Font design by Froyo Tam // Posters by Arixant, Articution, Avery, Boocanan, Froyo Tam, Ghost.Snacks, Integra, om_neb (more to be announced)
 
