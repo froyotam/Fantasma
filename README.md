@@ -31,4 +31,4 @@ Poster Prompt: Evoke the feeling of a metaphorical “phantom”.
 ![Image](https://raw.githubusercontent.com/froyotam/Fantasma/main/documentation/Apparition_FantasmaPoster_Fixed.png)
 
 
-Licensed under GNU General Public License 3.0
+Licensed under CC0-Universal.
